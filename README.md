@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Rob Crystal-Ornelas and I'm a postdoc at Lawrence Berkeley National Lab. At Berkeley Lab, I work for an environmental data repository and help to foster communities around data and metadata standard adoption.  See a recent **Open Access** paper about my work in the journal [*Earth & Space Science*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797).
+My name is Rob Crystal-Ornelas and I'm a data science postdoc at Lawrence Berkeley National Lab. At Berkeley Lab, I work for an environmental data repository and help to foster communities around data and metadata standardization pipelines.  
+
+I recently published an **Open Access** paper about my work in the journal [*Earth & Space Science*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797).
 
 - 💻 I’m currently working on community data standards and meta-analysis of environmental data.
 - 🌱 I'm learning how to write a collaborative paper entirely using GitHub (see below).
@@ -12,7 +14,7 @@ My name is Rob Crystal-Ornelas and I'm a postdoc at Lawrence Berkeley National L
   
 #### Some of my current projects
 - 💻 I’m working on an **Open Access** book about how to do [meta-analysis in R](https://github.com/robcrystalornelas/meta-analysis_of_ecological_data). Please get in touch if you would like to collaborate on this project!  
-- ⌨️ I'm collaborating on a manuscript summarizing how to use GitHub in Ecology and Evolution research. Follow along [here](https://github.com/SORTEE-Github-Hackathon/manuscript).
+- ⌨️ I'm collaborating on a manuscript summarizing how to use GitHub in Ecology and Evolution research. Follow along [here](https://github.com/SORTEE-Github-Hackathon/manuscript).  
 
 #### My skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)

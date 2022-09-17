@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 💻 I’m on a data analyst here at GitHub! 
+- 💻 I’m a data analyst here at GitHub! 
 - ⚡ Go Warriors! 🏀🌉 
 - 😄 Pronouns: he/him/his
 

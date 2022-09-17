@@ -1,12 +1,7 @@
 ### Hi 👋
 
-I'm Rob Crystal-Ornelas. I work as a data science postdoc at Lawrence Berkeley National Lab (LBNL). At LBNL, I work for a data repository and help to build scientific consensus and community (meta)data standardization.  
-
-I recently published an **Open Access** paper about using GitHub to develop data standards in the journal [*Earth & Space Science*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA001797).
-
-- 💻 I’m currently working on community data standards and meta-analysis of diverse data types.
-- 🌱 I'm learning how to write a collaborative paper with 17 co-authors entirely on GitHub (see below).
-- ⚡ I root for the Golden State Warriors 🏀🌉 
+- 💻 I’m on a data analyst here at GitHub! 
+- ⚡ Go Warriors! 🏀🌉 
 - 😄 Pronouns: he/him/his
 
 #### Where to find me

@@ -1,7 +1,8 @@
 ### Hi 👋
 
 - 💻 I’m a data analyst here at GitHub! 
-- ⚡ Go Warriors! 🏀🌉 
+- 🔗 More about me, my research, and artwork [here](https://robcrystalornelas.github.io/)
+- ⚡ Go Warriors! 🏀 🌉 
 - 😄 Pronouns: he/him/his
 
 #### Where to find me

@@ -1,7 +1,7 @@
-### Hi 👋
+### ✨ Hi ✨
 
 - 💻 I’m a data analyst and work on copilot prompt crafting here at GitHub! 
-- 🎨 I like to make embroideries. Check out my artwork [here](https://robcrystalornelas.github.io/art.html)
+- 🧵 I make embroideries. [Check out my artwork here](https://robcrystalornelas.github.io/art.html)
 - 😄 Pronouns: he/him/his
 
 #### Where to find me
@@ -11,11 +11,10 @@
 - Recently published a paper on how ecologists and biologists can incorporate GitHub in their workflows. [Open access paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14108).
 - Through GitHub's skills-based volunteer I worked with the Inter-American Development Bank to build spatial models and identify potential areas for building schools in Brazil. Check out a video summarizing our project [here](https://www.youtube.com/watch?v=CxMogpF15no).
 
-#### My skills
+#### 💻 Programming languages I work with
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)

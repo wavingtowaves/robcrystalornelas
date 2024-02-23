@@ -1,6 +1,6 @@
 ### ✨ Hi ✨
 
-- 💻 I’m a data analyst and work on copilot prompt crafting here at GitHub! 
+- 💻 I’m a Data Scientist working on Copilot here at GitHub! 
 - 🧵 I make embroideries. [Check out my artwork here](https://robcrystalornelas.github.io/art.html)
 - 😄 Pronouns: he/him/his
 
